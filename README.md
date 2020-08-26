@@ -6,20 +6,20 @@ Projet transversal des connaissances accumulées.
 
 Pour utiliser ce logiciel, il faut installer la librairie tkinter sur votre machine et avoir python3 installé.
 
-Pour ce faire : <\br>
-	-installer python3 : ```sudo apt-get install python3 ```<\br>
-	-installer tkinter sur l'ordinateur : ```sudo apt install python3-tk```<\br>
+Pour ce faire : <br\>
+	-installer python3 : ```sudo apt-get install python3 ```<br\>
+	-installer tkinter sur l'ordinateur : ```sudo apt install python3-tk```<br\>
 	-installer tkinter dans python3 : ```pip3 install tk```
 
 ## Indications de fonctionnement :
 
-Pour lancer le serveur : <\br>
+Pour lancer le serveur : <br\>
 	-```python3 -m src.mains.mainServeur``` ou ```make launch_server```
 
-Pour fermer le serveur : <\br>
+Pour fermer le serveur : <br\>
 	-```python3 -m src.fonctions.fermetureServeur``` ou ```make close_server``` 
 
-Pour lancer l'interface utilisateur : <\br>
+Pour lancer l'interface utilisateur : <br>
 	-```python3 -m src.mains.mainDebut``` ou ```make launch_user_interface``` ou plus rapidement ```make```
 
 Il est posssible de jouer hors ligne sans que le serveur soit lancé, pour le mode en ligne, veuillez lancer le serveur d'abord (dans un autre terminal).
