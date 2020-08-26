@@ -30,3 +30,7 @@ Chaque joueur doit placer 5 bateaux sur son damier.
 
 A tour de rôle, les joueurs choisissent une case où ils pensent que l'adversaire a caché un bateau. Quand un bateau a été touché sur toutes ses cellules, il est coulé. 
 Le premier joueur à couler tous les bateaux adverses remporte la partie.
+
+# Le précédent repo :
+
+Url : https://github.com/GingerBeardDubstep/Projet-de-mise-en-pratique.git
