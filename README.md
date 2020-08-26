@@ -2,7 +2,7 @@
 
 Projet transversal des connaissances accumulées.
 
-#Requirements :
+# Requirements :
 
 Pour utiliser ce logiciel, il faut installer la librairie tkinter sur votre machine et avoir python3 installé.
 
@@ -11,7 +11,7 @@ Pour ce faire :
 	-installer tkinter sur l'ordinateur : ```sudo apt install python3-tk```
 	-installer tkinter dans python3 : ```pip3 install tk```
 
-#Indications de fonctionnement :
+# Indications de fonctionnement :
 
 Pour lancer le serveur : 
 	-```python3 -m src.mains.mainServeur``` ou ```make launch_server```
@@ -24,7 +24,7 @@ Pour lancer l'interface utilisateur :
 
 Il est posssible de jouer hors ligne sans que le serveur soit lancé, pour le mode en ligne, veuillez lancer le serveur d'abord (dans un autre terminal).
 
-#Règles du jeu :
+# Règles du jeu :
 
 Chaque joueur doit placer 5 bateaux sur son damier.
 
